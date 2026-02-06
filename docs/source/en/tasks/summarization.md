@@ -1,3 +1,10 @@
+### Real-world Use Case
+
+Text summarization is widely used in applications such as meeting
+notes generation, news article condensation, and document review.
+
+In enterprise settings, it helps reduce manual reading time by
+automatically generating concise summaries from long reports.
 <!--Copyright 2022 The HuggingFace Team. All rights reserved.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with
